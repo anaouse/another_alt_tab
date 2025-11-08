@@ -12,7 +12,6 @@
 #define ID_TRAY_EXIT 1001
 #define HOTKEY_ID 1
 
-
 /* Application State */
 
 struct HiddenWindow {
