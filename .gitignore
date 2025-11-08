@@ -1,0 +1,6 @@
+/release/
+
+*.obj
+*.exe
+*.png
+*.cur
